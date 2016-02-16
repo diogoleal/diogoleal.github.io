@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diogo Leal</title>
+    <description>Um eterno aprendiz de palhaço!
+</description>
+    <link>http://diogoleal.com/</link>
+    <atom:link href="http://diogoleal.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 23:07:23 -0200</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 23:07:23 -0200</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jan 2016 18:03:56 -0200</pubDate>
+        <link>http://diogoleal.com/jekyll/update/2016/01/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/jekyll/update/2016/01/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Com menos, aumentei minha produtividade</title>
+        <description>&lt;p&gt;Confesso que tenho um pouco de dificuldade para me manter concentrado em
+determinadas atividades e os ambientes desktops (Desktops Environments)
+atuais não permitem isso. Para mim basta uma notificação no systray,
+uma janela piscando que eu perco totalmente o foco.&lt;/p&gt;
+
+&lt;p&gt;Como isso me incomodava, a primeira coisa que fiz foi remover as
+notificações do &lt;a href=&quot;http://kde.org&quot;&gt;KDE&lt;/a&gt;, mas eu tinha o hábito abrir o &lt;a href=&quot;https://www.kde.org/applications/internet/kopete/&quot;&gt;kopete&lt;/a&gt; de tempos
+em tempos para ver se alguém tinha me enviado alguma mensagem e depois já estava lendo e-mails, olhava os feeds e pronto, a tarefa que eu estava, foi colocada para escanteio.&lt;/p&gt;
+
+&lt;p&gt;Percebi que era necessário também mudar os meus hábitos, então criei algumas
+regras:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sem qualquer sistema de notificação;&lt;/li&gt;
+  &lt;li&gt;Se for algo muito importante, celular no silêncioso, se não coloco para vibrar;&lt;/li&gt;
+  &lt;li&gt;Tela do celular virada para baixo para que eu não veja as notificações;&lt;/li&gt;
+  &lt;li&gt;No máximo 4 abas abertas no navegador;&lt;/li&gt;
+  &lt;li&gt;Ter um intervalo de 5 minutos para água e/ou café;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Além dessas regras, mudei aos poucos os programas que utilizo no dia a dia.&lt;/p&gt;
+
+&lt;p&gt;A primeira ação foi substituir o KDE por um que tenha o
+conceito de ser simples, Comecei usando o &lt;a href=&quot;http://awesome.naquadah.org&quot;&gt;Awesome&lt;/a&gt;, e alguns meses depois, migrei para o &lt;a href=&quot;http://i3wm.org/&quot;&gt;i3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;i3&quot;&gt;i3&lt;/h1&gt;
+&lt;p&gt;O &lt;a href=&quot;http://i3wm.org/&quot;&gt;i3&lt;/a&gt; é um &lt;a href=&quot;https://en.wikipedia.org/wiki/Tiling_window_manager&quot;&gt;tiling window manager&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Conheci o i3 quando estava &lt;a href=&quot;http://diogoleal.com/kde/software/livre/2012/12/30/notebook-com-512mb-de-memoria.html&quot;&gt;procurando um gerenciador de janelas
+leve para rodar em um computador com 512MB&lt;/a&gt;, na época, eu estava
+com o pensamento focado no KDE, por isso usei o &lt;a href=&quot;https://www.trinitydesktop.org/&quot;&gt;TDE&lt;/a&gt;
+por algum tempo.&lt;/p&gt;
+
+&lt;p&gt;A primeira impressão que tive do i3 é que o desenvolvedor principal é um
+cara bem caprichoso e detalhista. Pois tudo é muito bem feito, da
+documentação ao código, Todas as minhas dúvidas foram sanadas com as
+informações que estão na documentação e/ou na FAQ.&lt;/p&gt;
+
+&lt;p&gt;Um dos motivos que utilizo esse tipo de window manager é a simplicidade
+e leveza. Além da configuração ser super simples, e tudo ser feito através
+de um arquivo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/screenshot_i3.png&quot; alt=&quot;i3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Visualmente ele pode não agradar muito, mas eu consigo ver muitas
+vantagens, eis algumas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pouco consumo de recursos;&lt;/li&gt;
+  &lt;li&gt;Bastante personalizável;&lt;/li&gt;
+  &lt;li&gt;Não é necessário utilizar o mouse, tudo é feito através do teclado;&lt;/li&gt;
+  &lt;li&gt;Ocupa pouco espaço em disco (777KB);&lt;/li&gt;
+  &lt;li&gt;Porque eu gosto ;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;navegador-e-e-mail&quot;&gt;Navegador e e-mail&lt;/h1&gt;
+
+&lt;p&gt;Quando utilizei um computador com 512MB de memória, percebi o quanto que
+algumas páginas da web estupram os recursos de uma simples maquina.&lt;/p&gt;
+
+&lt;p&gt;Então a primeira coisa que fiz na época foi abandonar o Firefox e usar
+outro, encontrei o &lt;a href=&quot;http://surf.suckless.org&quot;&gt;Surf&lt;/a&gt;, um navegador extramente simples e eficiente,
+mas nesse caso, ele é minimalista demais, e conheci outros navegadores
+simples, usei por um tempo o &lt;a href=&quot;https://github.com/conformal/xombrero&quot;&gt;Xombrero&lt;/a&gt;, gostei dele, mas foi o &lt;a href=&quot;http://qutebrowser.org&quot;&gt;qutebrower&lt;/a&gt; que me deixou bem feliz.&lt;/p&gt;
+
+&lt;p&gt;Tenho o Chromium e o Firefox instalados aqui, mas só utilizo quando
+algum site implica com ele, como é o caso do Netflix.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/screenshot_firefox.png&quot; alt=&quot;firefox&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para e-mail continuo utlizo o Gmail, mas somente entre as tarefas e estou conseguindo seguir a risca ;)&lt;/p&gt;
+
+&lt;h1 id=&quot;chat-e-irc&quot;&gt;Chat e IRC&lt;/h1&gt;
+
+&lt;p&gt;Para IRC utilizo o &lt;a href=&quot;https://irssi.org&quot;&gt;irssi&lt;/a&gt;, que para mim é o melhor. Configuração simples e sem muitas frescuras.&lt;/p&gt;
+
+&lt;p&gt;Para Jabber estou utilizando o &lt;a href=&quot;http://profanity.im&quot;&gt;Profanity&lt;/a&gt;, ele é inspirado no irssi, ou seja, modo texto, e possui suporte com inotify e outras
+bibliotecas de alarmes, mas eu prefiro não utilizar esse recurso, por
+motivos óbvios ;)&lt;/p&gt;
+
+&lt;h1 id=&quot;vim&quot;&gt;Vim&lt;/h1&gt;
+
+&lt;p&gt;O vim é o meu editor preferido, acredito fortemente que eu não tenha
+instalado qualquer outro editor. Logo só tem vim aqui ;)&lt;/p&gt;
+
+&lt;p&gt;Já utilizei vários editores, mas sempre tinha algo que me incomodava, o
+que usei por mais tempo foi o GNU Emacs, mas achei ele complexo demais para
+configurações simples.&lt;/p&gt;
+
+&lt;p&gt;Além de programar no Vim, utilizo ele para:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;escrever textos e &lt;a href=&quot;https://github.com/mrtazz/simplenote.vim&quot;&gt;anotações&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/lambdalisue/vim-manpager&quot;&gt;ler a manpage das aplicações.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alguns dias atrás estava utilizando o &lt;a href=&quot;https://github.com/ryanss/vim-hackernews&quot;&gt;vim para ler noticias&lt;/a&gt; do
+&lt;a href=&quot;https://news.ycombinator.com&quot;&gt;HackNews&lt;/a&gt;, mas achei que isso foge um pouco da simplicidade.&lt;/p&gt;
+
+&lt;p&gt;Mas como eu faço para não perder o foco com o ambiente externo?&lt;/p&gt;
+
+&lt;p&gt;Fones de ouvido e uma ótima música ;)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 -0200</pubDate>
+        <link>http://diogoleal.com/opensource/produtividade/2016/01/03/menos-para-maior-produtividade.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/opensource/produtividade/2016/01/03/menos-para-maior-produtividade.html</guid>
+        
+        
+        <category>OpenSource</category>
+        
+        <category>produtividade</category>
+        
+      </item>
+    
+      <item>
+        <title>Irmaozinho(a) pra Alice</title>
+        <description>&lt;p&gt;Se a Alice já soubesse falar bem, ela com certeza cantaria essa música
+da Palavra Cantada:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mamãe vai me dar um(a) irmãozinho(a)
+Estou contente
+Que bom
+
+Meu pai diz que é ruim ficar sozinho
+E tudo que é meu será dos dois
+Até a mamãe e o papai de nós dois
+
+Mamãe vai me dar um(a) irmãozinho(a)
+Estou contente
+Que bom
+
+O nosso apartamento é pequeno
+E o meu quarto é pequenininho
+Então papai e mamãe me disseram
+Dá-se um jeito
+Que vale? O que importa? O nenê ja tá quase batendo na porta!
+
+Vai pegar meus brinquedos!
+
+Mamãe vai me dar um(a) irmãozinho(a)
+Estou contente
+Que bom
+
+Até que é bom ficar sozinho
+Não sei porque o papai diz que é ruim
+O que é ruim pra ele, é bom pra mim
+Perguntei se pelo menos ele vai saber que eu sou sua irmã
+Responderam que não... vou ter que esperar...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 28 Dec 2014 00:00:00 -0200</pubDate>
+        <link>http://diogoleal.com/beb%C3%AA/familia/alice/2014/12/28/irmaozinho-alice.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/beb%C3%AA/familia/alice/2014/12/28/irmaozinho-alice.html</guid>
+        
+        
+        <category>Bebê</category>
+        
+        <category>Familia</category>
+        
+        <category>Alice</category>
+        
+      </item>
+    
+      <item>
+        <title>Nova Versão do Blog</title>
+        <description>&lt;p&gt;Após meses sem dar qualquer atenção para esse blog, tirei a poeira das
+coisas e com isso algumas coisas mudaram.&lt;/p&gt;
+
+&lt;p&gt;Não estou mais usando o Wordpress, resolvi utilizar o Pelican_.&lt;/p&gt;
+
+&lt;p&gt;Para mim é bem mais simples manter a estrutura acima do que com o
+Wordpress. Fico bem mais confortável escrevendo em um editor de texto
+local do que usando uma interface web, além que a questão de sempre
+ficar antenado para atualizações do Wordpress e os plguns me incomodava.&lt;/p&gt;
+
+&lt;p&gt;O processo de migração do Wordpress para o Pelican foi bem simples,
+segui praticamente os mesmos passos que o Mind Bending_ descreveu.
+Outro texto que me ajudou foi o da Amy Halon_.&lt;/p&gt;
+
+&lt;p&gt;O código fonte desse blog estão nesse repositório_.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Dec 2014 00:00:00 -0200</pubDate>
+        <link>http://diogoleal.com/alice/familia/2014/12/24/novo-blog.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/alice/familia/2014/12/24/novo-blog.html</guid>
+        
+        
+        <category>Alice</category>
+        
+        <category>Familia</category>
+        
+      </item>
+    
+      <item>
+        <title>Sentido para a vida</title>
+        <description>&lt;p&gt;Desde o dia &lt;a href=&quot;http://diogoleal.com/blog/?p=293&quot;&gt;17 de Junho&lt;/a&gt; sou pai e
+tantas coisas mudaram:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ser acordado de madrugada&lt;/strong&gt; -&amp;gt; Reclamava na maioria das vezes e
+acordava com um péssimo humor, hoje pode me chamar a hora que for,
+levanto sem reclamar e com uma disposição incrível.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bebê é tudo igual&lt;/strong&gt; -&amp;gt; Conseguia diferenciar apenas se o bebê era
+cabeludo ou a cor da pele ou olhos, o conjunto da obra pra mim era tudo
+igual, desde o dia 17/06 consigo ver o quanto a minha filha é linda!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nojo de fezes e urina&lt;/strong&gt; -&amp;gt; Nunca me sentia confortável ao ver fezes
+de qualquer pessoa, seja ela criança ou adulto, hoje as fezes de bebês
+não me dão tão nojo, pelo menos o da Alice, a de adultos continua a
+mesma coisa. ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paciência para tarefas simples&lt;/strong&gt; &lt;strong&gt;e repetitivas&lt;/strong&gt; -&amp;gt; Nunca gostei
+muito de fazer tarefas em loop, como mexer uma panela com mingau, limpar
+um banheiro ou coisas desse tipo. Exatamente hoje fiz mingau para mim e
+pra &lt;a href=&quot;http://vivianenonato.deviantart.com/&quot;&gt;Viviane&lt;/a&gt; e não consegui
+reclamar, as vezes consigo ficar um longo tempo com a Alice no colo
+passeando pela casa sem reclamar, pelo contrário, sinto falta quando ela
+sai do meu colo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interrupções&lt;/strong&gt; -&amp;gt;  Esse sempre foi o meu maior problema, nunca me
+adaptei muito bem a ter que ficar sendo interrompido, hoje consigo fazer
+bem isso, claro que não é algo que mudou da noite para o dia, mas
+consigo parar de escrever talvez um código ou ler um texto e voltar com
+o raciocínio do ponto que parei ou próximo dele, e se for alguma coisa
+relacionada a Alice, volto com mais energia. Pelo menos durante o dia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mudança drástica na vida&lt;/strong&gt; -&amp;gt; Tempo atrás eu dizia que não queria
+mudar a minha vida por causa de uma criança, hoje percebo que o tempo é
+o melhor remédio para consertar alguns pensamentos, mesmo tendo certeza
+que ela nasceu na melhor época da minha vida.  Eu já não estava saindo
+durante a noite, e quando saia era sempre para algum restaurante ou um
+local próximo de casa. Então a mudança hoje mesmo foi que toda as minhas
+decisões deverão ser pensadas apenas para o que for melhor para a Alice.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Televisão&lt;/strong&gt; -&amp;gt; Isso por enquanto ainda não mudou, então nesse
+momento são mais de 8 anos que eu não tenho uma TV dentro de casa.
+Alguns dizem que é legal e necessário para uma criança. Ainda tenho
+muitas dúvidas em relação a isso. Mas não quero dizer que terei ou que
+não terei.. Por enquanto não penso em ter uma.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amor e Família&lt;/strong&gt; -&amp;gt; Hoje eu entendo perfeitamente qual é o
+verdadeiro significado dessas duas palavras.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jul 2013 00:00:00 -0300</pubDate>
+        <link>http://diogoleal.com/alice/familia/2013/07/11/sentido-para-a-vida.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/alice/familia/2013/07/11/sentido-para-a-vida.html</guid>
+        
+        
+        <category>Alice</category>
+        
+        <category>Familia</category>
+        
+      </item>
+    
+      <item>
+        <title>Bem vinda Alice!!!</title>
+        <description>&lt;p&gt;No dia 17/06 eu e a &lt;a href=&quot;http://vivianenonato.deviantart.com/&quot;&gt;Viviane&lt;/a&gt;
+saímos de casa para o exame de cardiotocografia da Alice e quando
+chegamos na clinica Clinimagem, descobrimos que não era possível
+realizar os exames pois o aparelho estava com defeito. Resolvemos
+procurar uma nova clinica, mas enquanto decidiamos uma alternativa, a
+Viviane sofreu um pequeno acidente no banheiro do Bob’s.&lt;/p&gt;
+
+&lt;p&gt;Após comprarmos uma garrafa d’água na esquina da clinica, a Viviane
+sentiu vontade de ir ao banheiro e tinha um Bob’s na nossa frente e
+decidimos usar aquele banheiro, após esperar um tempo, a Viviane aparece
+dizendo que bateu com a porta na barriga, pois o banheiro que ela usou
+estava muito escuro. Quando olhei pra barriga, tinha um hematoma onde a
+porta bateu.&lt;/p&gt;
+
+&lt;p&gt;Com a preocupação da pancada ter afetado a Alice, corremos para a
+maternidade Carmela Dutra, quando chegamos ao local a médica de plantão
+fez o toque e ouviu o coração da Alice e tudo estava normal, quando ela
+viu a ultrassonografia, descobriu que a Alice estava ótima, mas a
+placenta estava bem gasta e que o melhor seria a internação da Viviane.&lt;/p&gt;
+
+&lt;p&gt;Antes da internação, realizaram o cardiotocografia e estava tudo certo
+com a Pequena. :)&lt;/p&gt;
+
+&lt;p&gt;Até o momento não estava definido pelos médicos qual seria o dia e o
+tipo de parto da Alice, a única certeza era esperar na recepção.&lt;/p&gt;
+
+&lt;p&gt;Assim que cheguei na recepção liguei para minha mãe, mas como estava com
+apenas 2% de bateria no celular, só consegui dizer que a Viviane estava
+internada na sala de pré-parto depois fiquei lendo, tentando não focar
+no que estava ali acontecendo. Depois de ler uns 40 páginas, aparece a
+minha mãe, meu padastro e minha tia, expliquei tudo o que aconteceu e
+conversamos por mais uns 30 minutos. Quando a minha tia, que mora no
+Meier, decide ir pra casa, pois não tinhamos noticias delas e ela
+imaginava que demoraria muito mais.&lt;/p&gt;
+
+&lt;p&gt;Depois de 15 minutos que ela saiu, o recepcionista da maternidade
+informa para eu subir para assistir o parto.&lt;/p&gt;
+
+&lt;p&gt;Quando ele deu a noticia, minha mãe imediatamente perguntou: &lt;em&gt;Você vai
+conseguir assistir?&lt;/em&gt;, a minha resposta foi: &lt;em&gt;Eu não perco essa
+oportunidade por nada na vida.&lt;/em&gt; Eu tinha que me dirigir ao 2o andar, mas
+com o nervosismo misturado a ansiedade, parei no 3o andar, quando
+cheguei no andar correto, coloquei a roupa do hospital e fiquei
+esperando alguém me chamar. Percebi que a sala do parto onde a Viviane
+estava era quase em frente a que eu estava. Ela estava deitada numa cama
+de operação, com o barrigão para cima e com alguns enfermeiros
+preparando-a para o parto. Quando ela me viu e notei que ela estava
+muito tensa, todo o meu nervosismo e ansiedade tinha que dar lugar a um
+sentimento de força, pois ela precisaria muito.&lt;/p&gt;
+
+&lt;p&gt;Quando me chamaram para assistir o parto, pensei que ficaria dentro da
+sala de operação, mas infelizmente fiquei do lado de fora, olhando por
+uma janela e assistindo o nascimento por completo da Alice.&lt;/p&gt;
+
+&lt;p&gt;Foi um parto super tranquilo, vi toda a operação, desde a marcação do
+corte até os médicos puxando a Alice pela cabeça e girando. Confesso que
+foi uma sensação maravilhosa, quando ela nasceu e deu o primeiro berro,
+eu parecia um atacante que fez o gol mais bonito da década aos 90
+minutos do segundo tempo numa final de campeonato. Só não gritei, mas
+dei pulos de alegria, socos no ar e orações. Depois disso, o enfermeiro
+colocou a Alice num envelope de pano e me entregou para que eu fosse com
+ele para ela tomar o primeiro banho. A linguagem humana é muito pobre
+para expressar o sentimento que tive de segurar ela pela primeira vez e
+principalmente depois do primeiro beijo que dei nela. Fui com ele até um
+local, devolvi a pequena e depois ela veio limpinha, ainda embrulhada
+num envelope com uma toquinha branca dos Smurfs&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/The-Smurfs-Season-2-Episode-8--The-Three-Smurfketeers.jpg&quot; alt=&quot;Smurfs&quot; /&gt;.&lt;/p&gt;
+
+&lt;p&gt;Voltei até a sala de parto e dali me despedi e só voltaria no dia
+seguinte para visita-las no pós-parto.&lt;/p&gt;
+
+&lt;p&gt;Quando voltei ao hospital para visitar as duas, a sensação que tive era
+de chorar e rir ao mesmo tempo.&lt;/p&gt;
+
+&lt;p&gt;A Alice nasceu no dia 17/06 às 17:10h com 47cm e 3.145kg de parto
+cesária na maternidade Carmela Dutra.&lt;/p&gt;
+
+&lt;p&gt;Elas voltaram pra casa no dia 20/06, A Alice está muito bem e a Viviane
+ainda se recuperando da cesária, mas a cada dia bem melhor.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jun 2013 00:00:00 -0300</pubDate>
+        <link>http://diogoleal.com/alice/beb%C3%AA/familia/2013/06/23/bem-vinda-alice.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/alice/beb%C3%AA/familia/2013/06/23/bem-vinda-alice.html</guid>
+        
+        
+        <category>Alice</category>
+        
+        <category>Bebê</category>
+        
+        <category>Familia</category>
+        
+      </item>
+    
+      <item>
+        <title>Alice... Alice.. Oh, Alice</title>
+        <description>&lt;p&gt;Tema de Alice - Danny Elfman&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Oh, Alice, querida, por onde você esteve?
+Muito próxima, muito distante ou no meio?
+O que você ouviu, o que você viu?
+Alice, Alice, por favor, Alice!
+
+Oh, conte-nos, você é grande ou pequena?
+Para experimentar este ou experimentar todos
+É um longo, longo caminho para cair
+Alice, Alice, oh, Alice
+
+Como você pode conhecer este caminho e não aquele?
+Você escolhe a porta, você escolhe o caminho
+Talvez você devesse estar voltando
+Outro dia, outro dia
+
+E nada é exatamente como parece
+Você está sonhando, você está sonhando, oh, Alice?
+Oh, como você encontrará seu caminho? Oh, como você encontrará seu caminho?
+Não há tempo para lágrimas hoje. Não há tempo para lágrimas hoje.
+
+Tantas portas - como você escolheu?
+Tanto para ganhar, tanto para perder
+Tantas coisas ficaram em seu caminho
+Sem tempo hoje, sem tempo hoje
+Cuidado para não perder sua cabeça
+Apenas se lembre do que o Dormidongo disse... Alice!
+
+Alguém te puxou pela mão?
+Quantas milhas até o País das Maravilhas?
+Por favor nos conte, então entenderemos
+Alice... Alice.. Oh, Alice
+
+[Oh, como encontrará seu caminho? Oh, como encontrará seu caminho?]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 18 Apr 2013 00:00:00 -0300</pubDate>
+        <link>http://diogoleal.com/alice/bebe/2013/04/18/alice-alice-oh-alice.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/alice/bebe/2013/04/18/alice-alice-oh-alice.html</guid>
+        
+        
+        <category>Alice</category>
+        
+        <category>Bebe</category>
+        
+      </item>
+    
+      <item>
+        <title>Notebook com 512MB de memória</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/photo-150x150.png&quot; alt=&quot;TDE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como diria um amigo: “Necessidade faz o sapo pular.”&lt;/p&gt;
+
+&lt;p&gt;Por necessidade de usar um computador, pois o meu notebook, Samsung
+RV415, deu o último sinal de vida. Ele liga, mas não encontra qualquer
+HD e como eu tenho a necessidade extrema de ter um computador, peguei um
+Dell Lattitude D520 para utilizar enquanto não troco de computador.&lt;/p&gt;
+
+&lt;p&gt;Simples, né? Quebrou o principal, troca pelo reserva.&lt;/p&gt;
+
+&lt;p&gt;Mas não é tão simples assim, pois o reserva tem 512MB de memória e o
+principal, 4GB.&lt;/p&gt;
+
+&lt;p&gt;E ai, neguinho?&lt;/p&gt;
+
+&lt;p&gt;Como sou um usuário “fiel” ao KDE, fiz a atualização para a mais nova,
+desabilitei todos os recursos que achava que consumia memória e consegui
+que o consumo total fosse para 256MB. Mas isso não ajudou muito, pois
+abrir 3 abas no Firefox, eu lotaria a memória do notebook.&lt;/p&gt;
+
+&lt;p&gt;Lembrei de 6 ou 7 anos atrás quando eu usava um AMD Athlon com 512 de
+memória e era um cara bem feliz, mas instalar uma distro antiga não
+rola, pois era bem provável que teria sérios problemas com a questão da
+wireless.&lt;/p&gt;
+
+&lt;p&gt;Então lembrei que na época do lançamento do KDE 4, um grupo de
+desenvolvedores que não gostou do rumo do projeto, fez um fork da versão
+3 e continou o desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;Este fork se chama &lt;a href=&quot;http://www.trinitydesktop.org/&quot;&gt;Trinity&lt;/a&gt; e para a
+minha surpresa o desenvolvimento &lt;a href=&quot;https://www.ohloh.net/p/tde&quot;&gt;continua firme e
+forte.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fiz a instalação e o consumo de memória esta bem razóavel, este consumo
+abaixo de memória é o Trinity rodando com o  Firefox com 5 abas abertas.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;diogo@Almaren&amp;gt;:~/ free -m
+
+            total       used       free     shared    buffers     cached
+Mem:        486        454         32          0          7        221
+-/+ buffers/cache:        225        260
+Swap:        0          0          0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 30 Dec 2012 15:32:00 -0200</pubDate>
+        <link>http://diogoleal.com/kde/software/livre/2012/12/30/notebook-com-512mb-de-memoria.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/kde/software/livre/2012/12/30/notebook-com-512mb-de-memoria.html</guid>
+        
+        
+        <category>KDE</category>
+        
+        <category>Software</category>
+        
+        <category>Livre</category>
+        
+      </item>
+    
+      <item>
+        <title>Casa nova para o Bebê</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/pokeball-300x300.png&quot; alt=&quot;image0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nunca achei que a minha cabeça fosse mudar tanto por causa da gravidez
+da Viviane, pelo que lembro dos amigos próximos que são pais, senti
+algumas mudanças na forma de pensar e agir. Mas sinceramente, não achava
+que era tão grande.&lt;/p&gt;
+
+&lt;p&gt;Talvez o que mais tenha mudado é que agora, qualquer passo que eu dê,
+fico pensando no que isso pode afetar a vida do Bebê, mesmo ele ainda
+estando super seguro na &lt;em&gt;pokebola&lt;/em&gt;,&lt;/p&gt;
+
+&lt;p&gt;Por não ter sido uma gravidez planejada, não compramos ou nos preparamos
+em nada para a chegada dele(a), que deverá ocorrer por volta de Maio de
+2013.&lt;/p&gt;
+
+&lt;p&gt;Para iniciarmos esta grande mudança na nossa vida, estamos nos mudando
+do Centro para a Praça Seca, de um apartamento de 1 quarto com vizinhos
+barulhentos e rua agitada para uma casa de 3 quartos, onde não
+conseguimos ouvir as vozes dos vizinhos em uma rua calma e pacata.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Dec 2012 00:00:00 -0200</pubDate>
+        <link>http://diogoleal.com/beb%C3%AA/2012/12/04/casa-nova-para-o-bebe.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/beb%C3%AA/2012/12/04/casa-nova-para-o-bebe.html</guid>
+        
+        
+        <category>Bebê</category>
+        
+      </item>
+    
+      <item>
+        <title>Pois é, vou ser papai!</title>
+        <description>&lt;p&gt;É engraçado, cerca de 3 semanas atrás descobri que serei pai, ou seja a
+Viviane esta grávida.&lt;/p&gt;
+
+&lt;p&gt;Achei que demoraria mais tempo para eu ser pai, mas sinceramente? Estou
+curtindo muito.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Nov 2012 22:02:00 -0200</pubDate>
+        <link>http://diogoleal.com/beb%C3%AA/2012/11/04/pois-e-vou-ser-papai.html</link>
+        <guid isPermaLink="true">http://diogoleal.com/beb%C3%AA/2012/11/04/pois-e-vou-ser-papai.html</guid>
+        
+        
+        <category>Bebê</category>
+        
+      </item>
+    
+  </channel>
+</rss>
