@@ -73,7 +73,7 @@ principalmente depois do primeiro beijo que dei nela. Fui com ele até um
 local, devolvi a pequena e depois ela veio limpinha, ainda embrulhada
 num envelope com uma toquinha branca dos Smurfs
 
-![Smurfs](/assets/images/The-Smurfs-Season-2-Episode-8--The-Three-Smurfketeers.jpg).
+![Smurfs](/assets/img/The-Smurfs-Season-2-Episode-8--The-Three-Smurfketeers.jpg).
 
 Voltei até a sala de parto e dali me despedi e só voltaria no dia
 seguinte para visita-las no pós-parto.

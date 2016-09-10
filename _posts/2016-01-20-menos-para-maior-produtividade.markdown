@@ -46,7 +46,7 @@ Um dos motivos que utilizo esse tipo de window manager é a simplicidade
 e leveza. Além da configuração ser super simples, e tudo ser feito através
 de um arquivo.
 
-![i3](/assets/images/screenshot_i3.png)
+![i3](/assets/img/screenshot_i3.png)
 
 Visualmente ele pode não agradar muito, mas eu consigo ver muitas
 vantagens, eis algumas:
@@ -71,7 +71,7 @@ simples, usei por um tempo o [Xombrero](https://github.com/conformal/xombrero), 
 Tenho o Chromium e o Firefox instalados aqui, mas só utilizo quando
 algum site implica com ele, como é o caso do Netflix.
 
-![firefox](/assets/images/screenshot_firefox.png)
+![firefox](/assets/img/screenshot_firefox.png)
 
 Para e-mail continuo utlizo o Gmail, mas somente entre as tarefas e estou conseguindo seguir a risca ;)
 

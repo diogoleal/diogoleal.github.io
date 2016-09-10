@@ -5,7 +5,7 @@ date: 2012-12-04
 categories: Bebê
 ---
 
-![image0](/assets/images/pokeball-300x300.png)
+![image0](/assets/img/pokeball-300x300.png)
 
 Nunca achei que a minha cabeça fosse mudar tanto por causa da gravidez
 da Viviane, pelo que lembro dos amigos próximos que são pais, senti

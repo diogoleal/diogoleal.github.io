@@ -12,7 +12,7 @@ Apesar de ter ficado pouco tempo na cidade, gostei bastante de lá, o
 pessoal é bem educado e hospitaleiro, muita gente usa bicicleta como
 principal meio de transporte, o que é até comum em cidades do interior.
 
-![image0](/assets/images/leao2.jpg)
+![image0](/assets/img/leao2.jpg)
 
 O time da região é o Rio Branco Sport Club, que foi fundado em 1913 e
 esta na primeira divisão do campeonato paranaense. Como recordação

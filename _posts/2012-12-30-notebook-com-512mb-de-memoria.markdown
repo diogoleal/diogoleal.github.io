@@ -5,7 +5,7 @@ date:   2012-12-30 15:32
 categories: KDE Software Livre
 ---
 
-![TDE](/assets/images/photo-150x150.png)
+![TDE](/assets/img/photo-150x150.png)
 
 Como diria um amigo: "Necessidade faz o sapo pular."
 

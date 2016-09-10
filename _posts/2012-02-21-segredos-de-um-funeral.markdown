@@ -5,7 +5,7 @@ date: 2012-02-21
 categories: Filmes
 ---
 
-[![image0](/assets/images/UncleBush01.jpg)](http://www.clanbreazeale.com/UncleBush/)
+[![image0](/assets/img/UncleBush01.jpg)](http://www.clanbreazeale.com/UncleBush/)
 
 Aproveitei o carnaval de 2012 para ficar um pouco com a minha família
 paterna, depois de assistir uns 8 episódios de Star Trek (Série

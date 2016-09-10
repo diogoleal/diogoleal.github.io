@@ -1,1 +1,3 @@
-gem 'jekyll-auto-image'
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-sitemap'

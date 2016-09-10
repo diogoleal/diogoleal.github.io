@@ -12,7 +12,7 @@ Rodrigo Carvalho querendo opiniões sobre a versao 4.8 do KDE.
      um relato sobre as novidades da versão? Estou pensando se dou uma nova
      chance ao ambiente :)"
 
-[![image0](/assets/images/whatisKDE.png)](/assets/images/whatisKDE.png)
+[![image0](/assets/img/whatisKDE.png)](/assets/img/whatisKDE.png)
 
 A minha resposta ao Rodrigo Carvalho foi esta:
 

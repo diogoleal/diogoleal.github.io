@@ -5,7 +5,7 @@ date: 2012-06-09
 tags: Bicicletas
 ---
 
-[![image0](/assets/images/525147_3683437042592_2007904090_n.jpg)](/assets/images/525147_3683437042592_2007904090_n.jpg)
+[![image0](/assets/img/525147_3683437042592_2007904090_n.jpg)](/assets/img/525147_3683437042592_2007904090_n.jpg)
 
  
 
@@ -58,7 +58,7 @@ dores na coxa (Talvez pelo esforço de voltar a pé) e o pescoço também
 tá doendo.
 
 A [ruivinha (minha
-bicicleta)](/assets/images/181631_197203536973237_100000507754871_705328_3815665_n.jpg)
+bicicleta)](/assets/img/181631_197203536973237_100000507754871_705328_3815665_n.jpg)
 esta com as duas rodas empenadas e o guidon parece que também tá, ainda
 não consegui (e não deixaram) andar até onde a bichinha esta para ver o
 estado dela. Mas sei que ela tá muito, muito suja por causa da chuva de

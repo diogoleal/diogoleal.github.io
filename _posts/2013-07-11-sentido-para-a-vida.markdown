@@ -53,4 +53,3 @@ não terei.. Por enquanto não penso em ter uma.
 **Amor e Família** -&gt; Hoje eu entendo perfeitamente qual é o
 verdadeiro significado dessas duas palavras.
 
- 
